@@ -26,7 +26,7 @@
 .idea-description  {
   padding-top: 0.5em;
   padding-left: 0.5em;
-  font-family: serif
+  font-family: Helvetica
 }
 
 .idea-description p, .idea-description a {
@@ -36,9 +36,21 @@
 .idea-description .title {
   font-size: 1.3em;
   color: black;
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 
-.idea-description .author {
 
+.right-arrow {
+  font-size: 2.5em;
+  position: absolute;
+  top: 50%;
+  right: 5%;
+}
+
+
+.left-arrow {
+  font-size: 2.5em;
+  position: absolute;
+  top: 50%;
+  left: 5%;
 }
