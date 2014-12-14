@@ -9,3 +9,12 @@ h1 {
 .idea-detail-description {
   font-size: 1.2em;
 }
+
+.pull-right {
+  margin-top: 0;
+}
+
+.title-spacer {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
