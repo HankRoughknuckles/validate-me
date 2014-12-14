@@ -2,3 +2,12 @@
   padding-top: 5px !important;
   padding-bottom: 5px !important;
 }
+
+.navbar .pull-right a {
+  margin-left: 15px;
+  color: #FFFFFF;
+}
+
+.grey-text {
+  color: #999999 !important;
+}
